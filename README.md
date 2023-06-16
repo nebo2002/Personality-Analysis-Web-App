@@ -28,3 +28,4 @@ The future scope of the app may include:
 Continuous improvement of accuracy: The integration of additional data sources and advanced machine learning techniques can enhance the accuracy and reliability of personality predictions.
 Expansion of features: Integration with external APIs, such as social media platforms or wearable devices, can provide a broader range of data for personality analysis.
 User engagement and feedback: Incorporating user feedback mechanisms and interactive elements can help improve the user experience and adapt the app to evolving user needs.
+
